@@ -1,7 +1,8 @@
-This just uses the example tests created by Cypress.
+This just uses Create React App and the example tests created by Cypress.
 
 Steps:
 ```
+pnpm i
 pnpm cypress open
 chose `e2e testing`
 chose a browser
